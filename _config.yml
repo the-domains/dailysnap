@@ -2,6 +2,7 @@ name: dailysnap
 favicon: null
 layout_spectrum: 0.44954392849467695
 typography_spectrum: 0.5218932505231351
+title: dailywork
 cta:
   domain: null
   bucket: null
