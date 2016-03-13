@@ -4,8 +4,15 @@
         <description><![CDATA[dailywork]]></description>
         <link>https://thegrid.ai/dailysnap/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 13:54:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2016 13:55:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dailysnap/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d940746-7c93-4754-93c3-52a1de186bf2.jpg">]]></description>
+            <link>https://thegrid.ai/dailysnap/0e601777-36fb-4815-abc6-fe22ef611ddd/index.html</link>
+            <guid isPermaLink="false">0e601777-36fb-4815-abc6-fe22ef611ddd</guid>
+            <pubDate>Sun, 13 Mar 2016 13:54:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18ecacff-c93b-4c55-ac31-9aaad40ebfa3.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/dailysnap/145153a9-5a59-4990-ac0d-eb5c43886b45/index.html</link>
             <guid isPermaLink="false">145153a9-5a59-4990-ac0d-eb5c43886b45</guid>
             <pubDate>Thu, 10 Mar 2016 03:26:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f18f94e2a350953c51c1993e8451e53e88e481e2.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/dailysnap/ffb0f03a-78f7-4ebf-b0d0-e31ceab0a0b1/index.html</link>
-            <guid isPermaLink="false">ffb0f03a-78f7-4ebf-b0d0-e31ceab0a0b1</guid>
-            <pubDate>Thu, 10 Mar 2016 03:36:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
